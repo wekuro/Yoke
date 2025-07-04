@@ -1,0 +1,56 @@
+* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border box;
+		font-family: Arial,sans-serif;
+}
+body {
+		background-color: #1e1e1e;
+		color: white;
+		padding: 20px 0;
+		text-align: center;
+}
+nav ui {
+		list-style: none;
+		padding: 10px;
+		display: flex;
+		justify-content: center;
+		gap: 20px;
+}
+nav ui 1i a {
+		color: white;
+		text-decoration: none;
+		font-weight: bold;
+}
+main {
+		max-width: 800px;
+		margin: 40px auto;
+		padding: 0 20px;
+		background: white;
+		border-radius: 8px;
+		box-shadow: 0 0 10px rgba(0,0,0,0,1);
+}
+articale h2 {
+		margin-bottom: 10px;
+}
+button {
+		background: #ff6600;
+		color: white;
+		border: none;
+		padding: 10px 16px;
+		border-radius: 5px;
+		cursor: pointer;
+}
+button:hover {
+		background: #e65c00;
+}
+footer{
+		text-align: center;
+		padding: 20px;
+		background-color: #1e1e1e;
+		color: white;
+		margin-top: 40px;
+}
+
+
+
